@@ -1,0 +1,5 @@
+platform :ios, 10.0
+target 'OpenCVDemo' do
+
+pod 'OpenCV', '~> 4.1.0'
+end
